@@ -6,7 +6,7 @@ A PXT packet for Seeed Studio Grove Two Led Matrix
 
 ```blocks
 // Create a module driver, specify the i2c address
-let matrix = Grove_Two_Led_Matrix.create(DEVICE_ID_TYPE.GROVE_TWO_LED_MATRIX_DEF_I2C_ADDR);
+let matrix = Grove_Two_Led_Matrix.create(GROVE_TWO_LED_MATRIX.DEF_I2C_ADDR);
 
 // Display string
 while(true)
