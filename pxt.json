@@ -1,0 +1,18 @@
+{
+    "name": "Grove Two Led Matrix",
+    "version": "0.1.0",
+    "description": "A PXT packet for Seeed Studio Grove Two Led Matrix",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
